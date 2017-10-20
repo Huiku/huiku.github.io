@@ -15,10 +15,10 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    weibo: 5052309032 
+    github: Huiku
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: hhh915@126.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
@@ -53,7 +53,7 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-    title: 博客主页 description: archive, url: '/'
+    title: 博客主页 description: archive, url: '/#blog'
 
 # Navigation buttons in the front page.s
 nav:
