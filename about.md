@@ -9,21 +9,20 @@ title: 关于我
 <p>
 很开心在今天用前辈的模板尝试搭建好自己的技术博客
 <p>
-
+							
 <p>
 
 <p>
-
+							
 <p>
-
-<p>
-
 
 <h3> 关于博客 </h3>  
 <p>
 本博客借鉴了前辈的代码，使用了Jekyll搭建
 <p>
+<p>
 如果你想使用同样的模板搭建，可以我的github中获取源码
+<p>
 
 博客源码在 <a target="_blank" href='https://github.com/Huiku/huiku.github.io'>Github</a> 上，欢迎使用~~
 
